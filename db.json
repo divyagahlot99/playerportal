@@ -1,0 +1,40 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "playerName": "M S Dhoni",
+      "playerCountry": "India",
+      "totalMatchesPlayed": 7
+    },
+    {
+      "playerName": "ishan",
+      "playerCountry": "Japan",
+      "totalMatchesPlayed": 5,
+      "id": 2
+    },
+    {
+      "playerName": "ishan",
+      "playerCountry": "Japan",
+      "totalMatchesPlayed": 2,
+      "id": 3
+    },
+    {
+      "playerName": "Taru",
+      "playerCountry": "indonesia",
+      "totalMatchesPlayed": 4,
+      "id": 4
+    },
+    {
+      "playerName": "ishan",
+      "playerCountry": "Japan",
+      "totalMatchesPlayed": 7,
+      "id": 5
+    },
+    {
+      "playerName": "mehak",
+      "playerCountry": "tttt",
+      "totalMatchesPlayed": 99,
+      "id": 6
+    }
+  ]
+}
